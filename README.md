@@ -1,7 +1,7 @@
 # Machine Learning Course
 Application codes of the machine learning course.
 
-This course was given by *Prof.İlker Birbil* and *Utku Karaca*. It was an intensive version of [this course](https://courses.eur.nl/#/2019-2020/detail/FEM31002) taught in *Erasmus University Rotterdam*.
+This course was given by *Prof.İlker Birbil* and *Utku Karaca*. It was an intensive version of [this course](http://eur.osiris-student.nl/#/nav/n4/onderwijscatalogus/extern/cursus?taal=EN&amp;cursuscode=FEM31002&amp;collegejaar=2019) taught in *Erasmus University Rotterdam*.
 
 
 
